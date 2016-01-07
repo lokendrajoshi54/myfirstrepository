@@ -1,0 +1,22 @@
+{
+  "name": "myfirstrepository",
+  "version": "1.0.1",
+  "description": "\"My first application\"",
+  "main": "foo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokendrajoshi54/myfirstrepository.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Lokendra Joshi <lokendrajoshi54@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokendrajoshi54/myfirstrepository/issues"
+  },
+  "homepage": "https://github.com/lokendrajoshi54/myfirstrepository#readme"
+}
